@@ -13,39 +13,91 @@ https://github.com/
 > ternery Operations
 > Date
 > switch
-> array
 > regex
+> array
 > loops
+> functions
 > Es6
     > let, const
     > maps,filter
 > Clousers
 > Hoisting
-> Transpile
+> JSON
 > this 
+> object 
+> Transpile
 > Es6
     > classes
     > import export
-> object 
 > Prototypes
-> Call/Apply
 > package.JSON
 > npm
 > DoM
+> Calc
 > Geolocation
+> Call/Apply
 > Form validation
 > Event
-> Calc
 > currenyConvertor
 > promis
 > async await
+> screen
 > Progress bar
-> JSON
 > palindrome
 > fabonicci
 > factorial
-> screen
 > Dynamic DropDown
+////////////////////////////////////////
 > Weather application
 > ajax
 > Baisc Jquery
+
+
+
+
+
+//////////////////
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/test6.git
+git push -u origin master
+
+
+////Next Time////
+git add .
+git commit -m "first commit"
+git push
+
+
+///////////
+git checkout -b 
+
+///
+git clone url
+git pull (before every push)
+
+
+>>>>>>>>
+package.JSON
+<<<<<<<
+metadata
+scripts
+description
+package
+
+>>>>>Step to create package.json<<<<<<
+**NodeJs must be installed
+> Go inside the folder using cmd
+> npm init -y
+
+babel
+
+
+>>>>>step to install package<<<<
+**NodeJs must be installed
+> Go inside the folder using cmd
+> npm i package name/npm install package name
+
+
+npm i @babel/core @babel/preset-env @babel/register
